@@ -164,3 +164,7 @@ Now, let's predict for a new student who studies for 0.5 hours:
 | Good for 0/1 problems      | No                   | Yes                     |
 | Probability interpretation | No                   | Yes                     |
 | Classification boundary    | Not clear            | Clear cutoff (like 0.5) |
+
+## Ref:
+
+- https://www.kaggle.com/code/prashant111/logistic-regression-classifier-tutorial
